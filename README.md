@@ -4,17 +4,28 @@ This is my first Sales Analysis Dashboard Project. This project is an interactiv
 The main objective of this project is to transform raw sales data into an interactive dashboard that helps users easily understand sales trends, identify top-performing products and regions, and track salesperson performance.
 
 TOOLS & SKILLS USED. 
-Microsoft Excel,
-Data CleaninG,
-Data Analysis, 
-Pivot Tables,
-Pivot Charts,
-Slicers, 
-Timeline,
-Report Connection,
-Link, 
-Interactive Dashboard, 
-Data Visualization, 
+Microsoft Excel
+<br>
+Data Cleaning
+<br>
+Data Analysis
+<br>
+Pivot Tables
+<br>
+Pivot Charts
+<br>
+Slicers 
+<br>
+Timeline
+<br>
+Report Connection
+<br>
+Link
+<br>
+Interactive Dashboard
+<br>
+Data Visualization 
+<br>
 KPI Cards.
 
 ABOUT
