@@ -1,3 +1,4 @@
+<img width="1855" height="876" alt="Screenshot 2026-08-08 215632" src="https://github.com/user-attachments/assets/a0051f1e-2147-4b06-86eb-f54a759f4353" />
 # Sales-Analysis-Dashboard-Project. Author- Avnish-Bhatt
 
 This is my first Sales Analysis Dashboard Project.
@@ -18,3 +19,5 @@ Link,
 Interactive Dashboard,
 Data Visualization,
 KPI Cards.
+<img width="1855" height="876" alt="Screenshot 2026-08-08 215632" src="https://github.com/user-attachments/assets/c14daf9c-5076-4daf-9bae-cbd11ae30d80" />
+<img width="1855" height="876" alt="Screenshot 2026-08-08 215632" src="https://github.com/user-attachments/assets/6a78405a-73f0-4e32-9bcf-70d04593b2cb" />
