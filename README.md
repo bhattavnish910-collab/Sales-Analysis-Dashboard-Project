@@ -35,7 +35,7 @@ Salesman Overview.
 
 <img width="1846" height="872" alt="Screenshot 2026-08-27 165727" src="https://github.com/user-attachments/assets/2930fd1a-02f6-4cf5-a130-05f73a9d34c3" />
 
-Item Overview. 
+Items Overview. 
 
 <img width="1858" height="871" alt="Screenshot 2026-08-27 165750" src="https://github.com/user-attachments/assets/5f26d74f-979b-43ee-937c-710bdd93dc1a" />
 
@@ -44,7 +44,7 @@ About.
 
 <img width="1860" height="872" alt="Screenshot 2026-08-27 165810" src="https://github.com/user-attachments/assets/31df42dd-726c-46dd-95e3-4eb08508c293" />
 
-DATA OVERVIEW
+DATA OVERVIEW.
 
 <img width="1073" height="690" alt="Screenshot 2026-08-27 182855" src="https://github.com/user-attachments/assets/e6a21ce7-dde9-4117-8dd3-349a9844903e" />
 
