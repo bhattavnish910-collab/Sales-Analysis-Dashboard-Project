@@ -10,6 +10,9 @@ Data Analysis
 Pivot Tables
 Pivot Charts
 Slicers
+Timeline 
+Report Connection
+Link
 Interactive Dashboard
 Data Visualization
 KPI Cards
