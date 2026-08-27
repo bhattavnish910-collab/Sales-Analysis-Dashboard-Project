@@ -28,4 +28,8 @@ SALESMAN OVERVIEW
 DASHBOARD OVERVIEW
 
 <img width="1855" height="876" alt="Screenshot 2026-08-08 215632" src="https://github.com/user-attachments/assets/a0051f1e-2147-4b06-86eb-f54a759f4353" />
+DATA OVERVIEW
+
+<img width="1073" height="690" alt="Screenshot 2026-08-27 182855" src="https://github.com/user-attachments/assets/e6a21ce7-dde9-4117-8dd3-349a9844903e" />
+
 
